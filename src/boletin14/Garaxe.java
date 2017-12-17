@@ -45,7 +45,7 @@ public class Garaxe {
         return precio;
     }
     
-    public void mostratFactura(){
+    public void mostrarFactura(){
         tiempoSalidaParking();
         this.tiempoTotalParking();
         this.pagarParking();
