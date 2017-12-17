@@ -26,12 +26,12 @@ public class Boletin14 {
         Garaxe coche7=new Garaxe();
         coche7.calcularPlazas();
         
-        coche1.mostratFactura();
-        coche2.mostratFactura();
-        coche3.mostratFactura();
-        coche4.mostratFactura();
-        coche5.mostratFactura();
-        coche6.mostratFactura();
+        coche1.mostrarFactura();
+        coche2.mostrarFactura();
+        coche3.mostrarFactura();
+        coche4.mostrarFactura();
+        coche5.mostrarFactura();
+        coche6.mostrarFactura();
                                                 
     }
     
